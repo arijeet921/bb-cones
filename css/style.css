@@ -127,3 +127,9 @@ body {
   transform: scale(1.5); 
 }
 /* products we make for you start */
+.banner-img {
+  width: 100%;
+  height: 60vh;              
+  object-fit: cover;        
+  object-position: center;  
+}
